@@ -1,4 +1,4 @@
-[![CI with GitHub Actions using Ant and JUnit | © 2022 by giao.lang](https://github.com/AT-QHUY/math-util-ant/actions/workflows/ant.yml/badge.svg)](https://github.com/AT-QHUY/math-util-ant/actions/workflows/ant.yml)
+[![CI with GitHub Actions using Ant and JUnit | © 2022 by AT-QHUY](https://github.com/AT-QHUY/math-util-ant/actions/workflows/ant.yml/badge.svg)](https://github.com/AT-QHUY/math-util-ant/actions/workflows/ant.yml)
 # Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff
